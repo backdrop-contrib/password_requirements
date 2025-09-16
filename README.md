@@ -57,7 +57,7 @@ libraries, list them here. You can also mention any organisations/companies who
 sponsored the module's development.
 -->
 - Created for Backdrop CMS by - [Martin Price](https://github.com/yorkshire-pudding) - [System Horizons Ltd](https://www.systemhorizons.co.uk).
-- Module development sponsored by [French Leaseback](https://www.systemhorizons.co.uk).
+- Module development sponsored by [French Leaseback](https://frenchleaseback.net/).
 
 
 ## License
