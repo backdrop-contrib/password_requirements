@@ -243,7 +243,7 @@ function password_requirements_characters_special_characters_check($password, $u
     else {
       $check_failure_explanation = format_plural($actual_count,
         'Your password only has 1 special character.',
-        'Your password only has @count special characters.',
+        'Your password only has @count special characters.'
       );
     }
 
